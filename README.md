@@ -1,10 +1,10 @@
-🌟 Online Retail Insights Dashboard
+🌟 ****Online Retail Insights Dashboard****
 
 **Introduction**
 
 In the fast-paced world of online retail, staying ahead of customer demands and market trends is vital for success. This Online Retail Insights Dashboard, built with Power BI, transforms raw transactional data into actionable insights for key decision-makers. Designed for both CEOs and CMOs, it provides a comprehensive view of performance, customer behavior, and product trends to drive strategic decisions.
 
-Background
+**Background**
 
 This dashboard is based on a dataset from an online retail business, which includes key details like sales transactions, product performance, customer data, and geographic trends. The goal was to extract meaningful insights and present them in an intuitive and interactive way to help stakeholders:
 - Identify performance trends over time.
@@ -12,7 +12,7 @@ This dashboard is based on a dataset from an online retail business, which inclu
 - Optimize product offerings.
 - Explore new market opportunities for growth.
 
-Dashboard Features
+**Dashboard Features**
 
 1. Performance & Trends
 - Total Revenue: Displays overall revenue performance.
@@ -26,7 +26,7 @@ Dashboard Features
 - Top Products by Revenue and Quantity: Provides insights into best-selling and high-margin products.
 - Repeat Customer Percentage: Measures customer loyalty and retention success.
 
-Technologies Used
+**Technologies Used**
 
 - Power BI: For interactive data visualization and dashboard creation.
 - DAX (Data Analysis Expressions): To calculate measures like total revenue, repeat customer percentage, and ranking.
